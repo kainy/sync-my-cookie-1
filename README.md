@@ -1,10 +1,11 @@
+# [SyncMeIn](https://kainy.cn/SyncMeIn/#gh-fork)
 
 - [x] manifeast V3 升级
 - [x] 支持 localstorage 同步
 - [x] 云端刷新cookie
 - [ ] 团队协作，不同账户间分享。
 
-SyncMeIn： https://chromewebstore.google.com/detail/syncmein/ckgjnddipnnbiglonaenkaehimhbeihj
+https://chromewebstore.google.com/detail/syncmein/ckgjnddipnnbiglonaenkaehimhbeihj
 
 
 ---
